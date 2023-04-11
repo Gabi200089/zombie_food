@@ -1,0 +1,187 @@
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+E:\大學\報告檔案\VB\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+C:\Users\Amy_Liu\Desktop\很多timer版\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form2.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+C:\Users\julia\Desktop\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\Interop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\AxInterop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\Interop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\AxInterop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.ResolveComReference.cache
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\Interop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\bin\Debug\AxInterop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\Interop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\AxInterop.WMPLib.dll
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.ResolveComReference.cache
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form2.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+E:\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\Interop.WMPLib.dll
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\Interop.WMPLib.dll
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.ResolveComReference.cache
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q1.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q10.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q2.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q3.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q4.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q5.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q6.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q7.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q8.resources
+C:\Users\Amy_Liu\Desktop\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q9.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.ResolveComReference.cache
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q1.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q10.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q2.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q3.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q4.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q5.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q6.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q7.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q8.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q9.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+C:\Users\Yi Chun\Downloads\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q1.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q10.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q2.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q3.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q4.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q5.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q6.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q7.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q8.resources
+E:\食物大亂鬥\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q9.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe.config
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.exe
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.pdb
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\食物大亂鬥.xml
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\Interop.WMPLib.dll
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\bin\Debug\AxInterop.WMPLib.dll
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbprojAssemblyReference.cache
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\Interop.WMPLib.dll
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\AxInterop.WMPLib.dll
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.ResolveComReference.cache
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q1.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q10.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q2.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q3.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q4.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q5.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q6.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q7.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q8.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Q9.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.選單.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第一頁.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Form1.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.Resources.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第三關.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.第二關.resources
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.GenerateResource.cache
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.vbproj.CoreCompileInputs.cache
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.exe
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.xml
+E:\大學\報告檔案\VB\VB期末專題\食物大亂鬥\食物大亂鬥\obj\Debug\食物大亂鬥.pdb

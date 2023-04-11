@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C164611B-6D6C-4CDD-9F8E-757C742A86E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>食物大亂鬥.My.MyApplication</StartupObject>
+    <RootNamespace>食物大亂鬥</RootNamespace>
+    <AssemblyName>食物大亂鬥</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>食物大亂鬥.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>食物大亂鬥.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\burger.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Q1.Designer.vb">
+      <DependentUpon>Q1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q10.Designer.vb">
+      <DependentUpon>Q10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q2.Designer.vb">
+      <DependentUpon>Q2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q3.Designer.vb">
+      <DependentUpon>Q3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q4.Designer.vb">
+      <DependentUpon>Q4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q5.Designer.vb">
+      <DependentUpon>Q5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q6.Designer.vb">
+      <DependentUpon>Q6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q7.Designer.vb">
+      <DependentUpon>Q7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q8.Designer.vb">
+      <DependentUpon>Q8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q9.Designer.vb">
+      <DependentUpon>Q9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Q9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="選單.Designer.vb">
+      <DependentUpon>選單.vb</DependentUpon>
+    </Compile>
+    <Compile Include="選單.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="第一頁.Designer.vb">
+      <DependentUpon>第一頁.vb</DependentUpon>
+    </Compile>
+    <Compile Include="第一頁.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="第三關.Designer.vb">
+      <DependentUpon>第三關.vb</DependentUpon>
+    </Compile>
+    <Compile Include="第三關.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="第一關.Designer.vb">
+      <DependentUpon>第一關.vb</DependentUpon>
+    </Compile>
+    <Compile Include="第一關.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="第二關.designer.vb">
+      <DependentUpon>第二關.vb</DependentUpon>
+    </Compile>
+    <Compile Include="第二關.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Q1.resx">
+      <DependentUpon>Q1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q10.resx">
+      <DependentUpon>Q10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q2.resx">
+      <DependentUpon>Q2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q3.resx">
+      <DependentUpon>Q3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q4.resx">
+      <DependentUpon>Q4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q5.resx">
+      <DependentUpon>Q5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q6.resx">
+      <DependentUpon>Q6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q7.resx">
+      <DependentUpon>Q7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q8.resx">
+      <DependentUpon>Q8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q9.resx">
+      <DependentUpon>Q9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="選單.resx">
+      <DependentUpon>選單.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="第一頁.resx">
+      <DependentUpon>第一頁.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="第一關.resx">
+      <DependentUpon>第一關.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="第三關.resx">
+      <DependentUpon>第三關.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="第二關.resx">
+      <DependentUpon>第二關.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zombies_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\漢堡.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\漢堡.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\薯條正面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\可樂.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\可樂正面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\可樂灰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\漢堡灰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\薯條灰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\青椒.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\青椒吃%28300%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\青椒死.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\茄子.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\茄子吃.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\茄子死.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\香菇.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\香菇吃.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\地圖1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\射薯條.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\射黃瓜.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\薯條.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\射泡泡.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\關卡背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\香菇死.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\地圖2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\地圖3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heartbeat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heartbeat .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\說明背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\暫停畫面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\封面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\成功.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\機智問答1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="遊戲說明.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="遊戲說明2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="說明.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a2rfp-rv7v3-002.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burger.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\gamePlay1.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamePlay2.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamePlay3.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
